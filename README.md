@@ -83,7 +83,7 @@ There are 13 attributes:
 ## 🧠 Author
 
 - **Kalyan Pagadala**  
-  M.Tech CSE Student | ML Enthusiast
+  M.Tech CSE Student 
 
 ---
 
